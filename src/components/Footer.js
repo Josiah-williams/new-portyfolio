@@ -10,21 +10,21 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Kawtar CHOUBARI</h3>
+          <h3>Josiah Williams</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year}</h3>
+          <h3>Copyright © {year} All rights reserved | This portfolio is made with ❤️by Josiah williams</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
-              <a href="https://github.com/choubari" style={{ color: "white" }}>
+              <a href="https://github.com/Josiah-williams" style={{ color: "white" }}>
                 <i className="fab fa-github"></i>
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/kawtar-choubari-2226b0150/"
+                href="https://www.linkedin.com/in/josiahwilliams"
                 style={{ color: "white" }}
               >
                 <i className="fab fa-linkedin-in"></i>
@@ -32,42 +32,10 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/choubari_/"
-                style={{ color: "white" }}
-              >
-                <i className="fab fa-instagram"></i>
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://twitter.com/choubari_"
+                href="https://twitter.com/Josiah51039920"
                 style={{ color: "white" }}
               >
                 <i className="fab fa-twitter"></i>
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://stackoverflow.com/users/12802591/choubari"
-                style={{ color: "white" }}
-              >
-                <i className="fab fa-stack-overflow"></i>
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://dribbble.com/choubari"
-                style={{ color: "white" }}
-              >
-                <i className="fab fa-dribbble"></i>
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.behance.net/choubari"
-                style={{ color: "white" }}
-              >
-                <i className="fab fa-behance"></i>
               </a>
             </li>
           </ul>
