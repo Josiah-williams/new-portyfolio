@@ -39,8 +39,6 @@ function About() {
           Technical <strong className="purple">Skills </strong>
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-          <Techstack iconName="devicon-java-plain-wordmark" />
-          <Techstack iconName="devicon-android-plain" />
           <Techstack iconName="devicon-flutter-plain" />
           <Techstack iconName="devicon-firebase-plain" />
           <Techstack iconName="devicon-mysql-plain" />
